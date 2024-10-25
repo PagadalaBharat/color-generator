@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  /* border: 2px solid; */
+  height: 100vh;
+}
+
+
+button{
+    border: none;
+    outline: none;
+    background-color: rgb(84, 84, 255);
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    font-weight: 800;
+
+
+}
